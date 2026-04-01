@@ -451,7 +451,7 @@ function StonkspilledLanding() {
                 <path d="M12 1v22M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6" />
               </svg>
             </div>
-            <div className="step-title">Deposit ETH</div>
+            <div className="step-title">Deposit ETH or USDC</div>
             <div className="step-desc">
               Deposit <strong>USDC</strong> on Arbitrum or Base to trade, and keep a bit of{" "}
               <strong>ETH </strong> for gas. That&apos;s it.
