@@ -348,7 +348,7 @@ function StonkspilledLanding() {
 
           <p className="hero-sub">
             Trade stocks, forex, gold, oil and crypto perpetuals directly inside
-            Telegram. No wallets. No bridges. No BS. Just{" "}
+            Telegram. Just{" "}
             <strong style={{ color: "var(--text)" }}>type and trade.</strong>
           </p>
 
@@ -395,7 +395,7 @@ function StonkspilledLanding() {
           <div className="stat-item">
             <div className="stat-label">Network</div>
             <div className="stat-value">
-              ARB<span className="accent">+</span>BASE
+              ARBitrum<span className="accent">+</span>BASE
             </div>
           </div>
           <div className="stat-item">
@@ -453,8 +453,8 @@ function StonkspilledLanding() {
             </div>
             <div className="step-title">Deposit ETH</div>
             <div className="step-desc">
-              Send ETH from any chain. We auto-convert to USDC via{" "}
-              <strong>Across Protocol</strong>. One token. Done.
+              Deposit <strong>USDC</strong> on Arbitrum or Base to trade, and keep a bit of{" "}
+              <strong>ETH </strong> for gas. That&apos;s it.
             </div>
           </div>
           <div className="step">
@@ -475,7 +475,7 @@ function StonkspilledLanding() {
             </div>
             <div className="step-title">Type to trade</div>
             <div className="step-desc">
-              <strong>/trade TSLA long 100 20x</strong> — that&apos;s the entire
+              <strong>/trade TSLA long 100 20x </strong> — that&apos;s the entire
               interface. No charts to learn, no tabs to open.
             </div>
           </div>
@@ -778,8 +778,7 @@ function StonkspilledLanding() {
             </div>
             <div className="feature-title">Zero-fee perps on select pairs</div>
             <div className="feature-desc">
-              BTC and ETH markets powered by <strong>Avantis on Base</strong> —
-              zero opening fee, loss rebates if you trade against sentiment. A
+              BTC and ETH markets have <strong>zero opening fee</strong>, <strong>loss rebates</strong> if you trade against sentiment. A
               rare edge.
             </div>
           </div>
@@ -826,12 +825,11 @@ function StonkspilledLanding() {
 
       <footer>
         <div className="footer-copy">
-          © 2026 Stonkspilled.trade · Built on Arbitrum
+          © 2026 Stonkspilled.trade · Built on Arbitrum and Base
         </div>
         <div className="footer-links">
           <a href="https://x.com/stonkspilled">Twitter</a>
           <a href="https://t.me/stonkspilled_bot">Telegram</a>
-          <a href="#">Terms</a>
     </div>
       </footer>
     </>

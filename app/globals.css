@@ -719,20 +719,48 @@ footer {
   nav { padding: 16px 24px; }
   .nav-links { display: none; }
   .ticker-wrap { top: var(--nav-offset); }
-  .hero { padding: 0 24px 40px; justify-content: flex-start; }
-  .hero-inner { padding-top: calc(var(--nav-offset) + 140px); }
-  .hero-eyebrow { margin-top: 18px; }
+  .hero { padding: 0 24px 20px; justify-content: flex-start; }
+  .hero-inner { padding-top: calc(var(--nav-offset) + 78px); }
+  .hero-eyebrow { margin-top: 4px; margin-bottom: 12px; }
+  .hero-sub { margin-top: 10px; margin-bottom: 20px; }
   section { padding: 80px 24px; }
   .steps { grid-template-columns: 1fr 1fr; }
   .markets-grid { grid-template-columns: 1fr 1fr; }
   .features-grid { grid-template-columns: 1fr; }
   .feature-large { grid-column: span 1; grid-template-columns: 1fr; gap: 32px; }
+  .cta-section { padding: 120px 24px; }
+  .cta-sub { margin-bottom: 32px; }
+  .cta-actions {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 14px;
+  }
+  .cta-actions .btn-primary {
+    width: 100%;
+    max-width: 340px;
+    margin: 0 auto;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 16px 18px !important;
+    font-size: 15px !important;
+    line-height: 1.2;
+    text-align: center;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+  .cta-actions .btn-secondary {
+    justify-content: center;
+    width: 100%;
+    max-width: 340px;
+    margin: 0 auto;
+    text-align: center;
+  }
   .hero-stats {
     position: relative;
     left: auto;
     right: auto;
     bottom: auto;
-    margin: 28px 0 0;
+    margin: 12px 0 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1px;
