@@ -240,7 +240,7 @@ function StonkspilledLanding() {
           </li>
         </ul>
 
-        <a href="https://t.me/stonkspilled_bot" className="nav-cta">
+        <a href="https://t.me/stonkspilledtradebot" className="nav-cta">
           Start Trading →
         </a>
       </nav>
@@ -353,7 +353,7 @@ function StonkspilledLanding() {
           </p>
 
           {/* <div className="hero-actions">
-            <a href="https://t.me/stonkspilled_bot" className="btn-primary">
+            <a href="https://t.me/stonkspilledtradebot" className="btn-primary">
               <svg
                 width="16"
                 height="16"
@@ -431,7 +431,7 @@ function StonkspilledLanding() {
             </div>
             <div className="step-title">Open the bot</div>
             <div className="step-desc">
-              Message <strong>@stonkspilled_bot</strong> on Telegram. Your
+              Message <strong>@stonkspilledtradebot</strong> on Telegram. Your
               personal wallet is created instantly — no seed phrases, no
               extensions.
             </div>
@@ -654,7 +654,7 @@ function StonkspilledLanding() {
                     marginLeft: 8,
                   }}
                 >
-                  @stonkspilled_bot
+                  @stonkspilledtradebot
                 </span>
               </div>
               <div className="terminal-body">
@@ -802,7 +802,7 @@ function StonkspilledLanding() {
         </p>
         <div className="cta-actions reveal">
           <a
-            href="https://t.me/stonkspilled_bot"
+            href="https://t.me/stonkspilledtradebot"
             className="btn-primary"
             style={{ fontSize: 16, padding: "18px 40px" }}
           >
@@ -815,7 +815,7 @@ function StonkspilledLanding() {
             >
               <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.248l-2.012 9.475c-.148.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.053-.332-.373-.12l-6.871 4.326-2.962-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.875.746z" />
             </svg>
-            Open @stonkspilled_bot
+            Open @stonkspilledtradebot
           </a>
           <a href="https://x.com/stonkspilled" className="btn-secondary">
             Follow on X →
@@ -829,7 +829,7 @@ function StonkspilledLanding() {
         </div>
         <div className="footer-links">
           <a href="https://x.com/stonkspilled">Twitter</a>
-          <a href="https://t.me/stonkspilled_bot">Telegram</a>
+          <a href="https://t.me/stonkspilledtradebot">Telegram</a>
     </div>
       </footer>
     </>
